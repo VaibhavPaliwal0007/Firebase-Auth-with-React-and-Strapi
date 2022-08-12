@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "user_registrations",
+  "info": {
+    "singularName": "user-registration",
+    "pluralName": "user-registrations",
+    "displayName": "user-registration"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    },
+    "Email": {
+      "type": "string"
+    },
+    "Phoneno": {
+      "type": "string"
+    },
+    "Region": {
+      "type": "string"
+    }
+  }
+}
